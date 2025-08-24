@@ -28,7 +28,7 @@ the surroundings. Eager to learn and grow in the dynamic data analytics industry
 # Previous Project
 ### 📑 Project Summary – Analysis of Performance Results of the Covolutional Neural Networ (CNN) Method in Pathological Myopia Classification  
 
-## 📂 Project Presentation  
+#### 📂 Project Presentation  
 You can view the full presentation here: [View Slides](https://drive.google.com/file/d/11k3wxaMkrUx-pUGzVXCXsojr33ro1QRu/view?usp=drivesdk)
 
 
@@ -84,6 +84,10 @@ This project applies **Convolutional Neural Networks (CNN)**, specifically the *
 
 #
 ### 📊 Project Summary – Marketing Campaign Optimization  
+
+#### 📂 Project Presentation  
+You can view the full presentation here: [View Slides](https://drive.google.com/file/d/1rbxglPqplXT0oGYAp5hr-s83O4cZIbhe/view?usp=drivesdk)
+
 
 #### Overview  
 This project was conducted with the **Statstronauts team** to optimize digital marketing strategies using **predictive modeling**.  
