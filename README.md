@@ -157,4 +157,4 @@ By applying **XGBoost** and data-driven targeting, marketing campaigns became mo
 
 # Connect with me
 **Email: [havis@sci.ui.ac.id](mailto:havis@sci.ui.ac.id)**  
-**Linkedin: [http://linkedin.com/in/havista-razaqli-kurniawan](http://linkedin.com/in/havista-razaqli-kurniawan)**
+**LinkedIn: [http://linkedin.com/in/havista-razaqli-kurniawan](http://linkedin.com/in/havista-razaqli-kurniawan)**
