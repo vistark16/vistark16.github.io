@@ -84,8 +84,6 @@ This project applies **Convolutional Neural Networks (CNN)**, specifically the *
 
 <br>
 <br>
-<br>
-<br>
 
 ### 📊 Project Summary – Marketing Campaign Optimization  
 
