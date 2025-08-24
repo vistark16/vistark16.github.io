@@ -85,20 +85,17 @@ This project applies **Convolutional Neural Networks (CNN)**, specifically the *
 This project was conducted with the **Statstronauts team** to optimize digital marketing strategies using **predictive modeling**.  
 The goal was to increase the **conversion rate** and improve campaign profitability.  
 
----
 
 #### Business Problem  
 - Limited customer data for targeting future campaigns.  
 - Ineffective marketing strategies.  
 - Low campaign success rate.  
 
----
 
 #### Objectives  
 1. Build a predictive model to classify customers likely to accept campaigns.  
 2. Increase conversion rate and maximize profitability.  
 
----
 
 #### Approach & Methodology  
 - **EDA & Data Preprocessing**  
@@ -111,7 +108,6 @@ The goal was to increase the **conversion rate** and improve campaign profitabil
   - **Main metric:** Precision (to minimize false positives)  
   - **Best Model:** **XGBoost**, precision 85% with minimal train-test gap  
 
----
 
 #### Results  
 - Conversion Rate:  
@@ -132,20 +128,17 @@ The goal was to increase the **conversion rate** and improve campaign profitabil
   - Marital Status  
   - Total Purchases  
 
----
 
 #### Business Recommendations  
 1. Prioritize customers who previously accepted campaigns.  
 2. Develop promotions targeting newly married couples (without teenagers at home).  
 3. Focus on customers with a **Graduation degree**, especially with **wine** products and **in-store purchases**.  
 
----
 
 #### Conclusion  
 The predictive model successfully increased conversion rates and improved financial outcomes.  
 By applying **XGBoost** and data-driven targeting, marketing campaigns became more **effective and profitable**.  
 
----
 
 
 
