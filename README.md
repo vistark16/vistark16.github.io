@@ -82,7 +82,10 @@ This project applies **Convolutional Neural Networks (CNN)**, specifically the *
 - Explore modifications in **dense layers, activation functions, and dropout** to improve generalization.  
 - Apply **advanced preprocessing techniques** for further accuracy gains.  
 
---
+<br>
+<br>
+<br>
+<br>
 
 ### 📊 Project Summary – Marketing Campaign Optimization  
 
