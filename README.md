@@ -31,19 +31,16 @@ the surroundings. Eager to learn and grow in the dynamic data analytics industry
 #### Overview  
 This project applies **Convolutional Neural Networks (CNN)**, specifically the **VGG16 architecture**, to classify **pathological myopia** from retinal fundus images. Pathological myopia is a severe eye disease that can lead to blindness, with a rising prevalence in Asia.  
 
----
 
 #### Research Problem  
 - How to apply CNN for classifying pathological myopia from fundus images.  
 - How effective CNN (VGG16) performs in this classification task.  
 
----
 
 #### Objectives  
 1. Implement a CNN model with VGG16 architecture to classify pathological myopia.  
 2. Analyze the model’s performance using evaluation metrics such as **accuracy, precision, and recall**.  
 
----
 
 #### Methodology  
 - **Dataset:** Ocular Disease Recognition (ODIR-5K) from Kaggle  
@@ -60,7 +57,6 @@ This project applies **Convolutional Neural Networks (CNN)**, specifically the *
   - Batch size: **32**  
   - Learning rate: **0.001**  
 
----
 
 #### Results  
 - **Case 1 (70:30 split):**  
@@ -72,25 +68,17 @@ This project applies **Convolutional Neural Networks (CNN)**, specifically the *
 
 ✅ **Best Performance:** Case 3 with **99.1% accuracy, 100% precision, and 100% recall**  
 
----
 
 #### Conclusion  
 - CNN with **VGG16 architecture** is highly effective for classifying pathological myopia from fundus images.  
 - The model achieved outstanding results, especially in Case 3, demonstrating its potential for supporting **early diagnosis and clinical decision-making**.  
 
----
 
 #### Future Work  
 - Explore modifications in **dense layers, activation functions, and dropout** to improve generalization.  
 - Apply **advanced preprocessing techniques** for further accuracy gains.  
 
----
-
-
-
-
-
-
+#
 ### 📊 Project Summary – Marketing Campaign Optimization  
 
 #### Overview  
