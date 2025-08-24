@@ -150,4 +150,5 @@ By applying **XGBoost** and data-driven targeting, marketing campaigns became mo
 ---
 
 # Completed Courses and Certifications
-[Certificate of Completion Data Science Batch 38 - Rakamin Academy](https://drive.google.com/file/d/1pNq14nSrETU84q_OS-4ELPvTOr3e0y4h/view?usp=drivesdk)
+[Rakamin Academy: Certificate of Completion Data Science Batch 38](https://drive.google.com/file/d/1pNq14nSrETU84q_OS-4ELPvTOr3e0y4h/view?usp=drivesdk)
+[DataCamp: Statement of Accomplishment - Intermediate Google Sheets](https://drive.google.com/file/d/1MOtAP-xXd8u7eiR8AkidG7dYgPmfELJn/view?usp=drivesdk)
