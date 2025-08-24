@@ -1,8 +1,3 @@
-**Email: [havis@sci.ui.ac.id](mailto:havis@sci.ui.ac.id)**  
-**Linkedin: [http://linkedin.com/in/havista-razaqli-kurniawan](http://linkedin.com/in/havista-razaqli-kurniawan)**
-  
-
-#
 # Profile
 Mathematics Bachelor Graduate at University of Indonesia. Passionate and high on curiosity and
 enthusiast about processing data, analyzing data, and get useful insights. Highly motivated for self-
@@ -157,3 +152,9 @@ By applying **XGBoost** and data-driven targeting, marketing campaigns became mo
 # Completed Courses and Certifications
 [Rakamin Academy: Certificate of Completion Data Science Batch 38](https://drive.google.com/file/d/1pNq14nSrETU84q_OS-4ELPvTOr3e0y4h/view?usp=drivesdk)  
 [DataCamp: Statement of Accomplishment - Intermediate Google Sheets](https://drive.google.com/file/d/1MOtAP-xXd8u7eiR8AkidG7dYgPmfELJn/view?usp=drivesdk)
+
+---
+
+# Connect with me
+**Email: [havis@sci.ui.ac.id](mailto:havis@sci.ui.ac.id)**  
+**Linkedin: [http://linkedin.com/in/havista-razaqli-kurniawan](http://linkedin.com/in/havista-razaqli-kurniawan)**
