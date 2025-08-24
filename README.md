@@ -28,6 +28,10 @@ the surroundings. Eager to learn and grow in the dynamic data analytics industry
 # Previous Project
 ### 📑 Project Summary – Analysis of Performance Results of the Covolutional Neural Networ (CNN) Method in Pathological Myopia Classification  
 
+## 📂 Project Presentation  
+You can view the full presentation here: [View Slides](https://drive.google.com/file/d/11k3wxaMkrUx-pUGzVXCXsojr33ro1QRu/view?usp=drivesdk)
+
+
 #### Overview  
 This project applies **Convolutional Neural Networks (CNN)**, specifically the **VGG16 architecture**, to classify **pathological myopia** from retinal fundus images. Pathological myopia is a severe eye disease that can lead to blindness, with a rising prevalence in Asia.  
 
