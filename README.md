@@ -1,4 +1,4 @@
-Email: [havis@sci.ui.ac.id](mailto:havis@sci.ui.ac.id)
+Email: [havis@sci.ui.ac.id](mailto:havis@sci.ui.ac.id)  
 Linkedin: http://linkedin.com/in/havista-razaqli-kurniawan
   
 
