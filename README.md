@@ -6,6 +6,15 @@ the surroundings. Eager to learn and grow in the dynamic data analytics industry
 
 ---
 
+# Tech Stack  
+- **Programming:** Python 3  
+- **Data Analysis:** pandas, numpy, Google Spreadsheet  
+- **Visualization:** matplotlib, seaborn  
+- **Machine Learning:** scikit-learn, xgboost, imbalanced-learn (SMOTE)  
+- **Database:** PostgreSQL  
+
+---
+
 # Previous Project
 ### 📑 Project Summary – Analysis of Performance Results of the Covolutional Neural Networ (CNN) Method in Pathological Myopia Classification  
 
