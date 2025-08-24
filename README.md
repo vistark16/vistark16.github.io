@@ -147,6 +147,6 @@ The goal was to increase the **conversion rate** and improve campaign profitabil
 The predictive model successfully increased conversion rates and improved financial outcomes.  
 By applying **XGBoost** and data-driven targeting, marketing campaigns became more **effective and profitable**.  
 
+---
 
-
-
+# Completed Courses and Certifications
