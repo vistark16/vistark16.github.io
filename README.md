@@ -6,6 +6,16 @@ the surroundings. Eager to learn and grow in the dynamic data analytics industry
 
 ---
 
+# Core Competencies  
+- Data Cleaning, EDA, and Feature Engineering  
+- Machine Learning (Classification, Predictive Modeling, Hypertuning)  
+- Deep Learning (CNN, VGG16 for Image Classification)  
+- SQL (PostgreSQL) for Database Management and Querying  
+- Data Visualization (matplotlib, seaborn, Google Spreadsheet)  
+- End-to-End Workflow: Data → Model → Evaluation → Business Insights  
+
+---
+
 # Tech Stack  
 - **Programming:** Python 3  
 - **Data Analysis:** pandas, numpy, Google Spreadsheet  
