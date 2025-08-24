@@ -150,3 +150,4 @@ By applying **XGBoost** and data-driven targeting, marketing campaigns became mo
 ---
 
 # Completed Courses and Certifications
+[Certificate of Completion Data Science Batch 38 - Rakamin Academy](https://drive.google.com/file/d/1pNq14nSrETU84q_OS-4ELPvTOr3e0y4h/view?usp=drivesdk)
