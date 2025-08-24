@@ -1,3 +1,7 @@
+## Email: [havis@sci.ui.ac.id](mailto:havis@sci.ui.ac.id)  
+## Linkedin: http://linkedin.com/in/havista-razaqli-kurniawan  
+  
+  
 # Profile
 Mathematics Bachelor Graduate at University of Indonesia. Passionate and high on curiosity and
 enthusiast about processing data, analyzing data, and get useful insights. Highly motivated for self-
