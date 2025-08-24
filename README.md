@@ -56,6 +56,12 @@ This project applies **Convolutional Neural Networks (CNN)**, specifically the *
 - Explore modifications in **dense layers, activation functions, and dropout** to improve generalization.  
 - Apply **advanced preprocessing techniques** for further accuracy gains.  
 
+---
+
+
+
+
+
 
 # 📊 Project Summary – Statstronauts Marketing Campaign Optimization  
 
@@ -122,3 +128,8 @@ The goal was to increase the **conversion rate** and improve campaign profitabil
 ## Conclusion  
 The predictive model successfully increased conversion rates and improved financial outcomes.  
 By applying **XGBoost** and data-driven targeting, marketing campaigns became more **effective and profitable**.  
+
+---
+
+
+
