@@ -1,4 +1,4 @@
-# 📑 Project Summary – CNN-based Classification of Pathological Myopia  
+# 📑 Project Summary – Analysis of Performance Results of the Covolutional Neural Networ (CNN) Method in Pathological Myopia Classification  
 
 ## Overview  
 This project applies **Convolutional Neural Networks (CNN)**, specifically the **VGG16 architecture**, to classify **pathological myopia** from retinal fundus images. Pathological myopia is a severe eye disease that can lead to blindness, with a rising prevalence in Asia.  
@@ -63,7 +63,7 @@ This project applies **Convolutional Neural Networks (CNN)**, specifically the *
 
 
 
-# 📊 Project Summary – Statstronauts Marketing Campaign Optimization  
+# 📊 Project Summary – Marketing Campaign Optimization  
 
 ## Overview  
 This project was conducted with the **Statstronauts team** to optimize digital marketing strategies using **predictive modeling**.  
