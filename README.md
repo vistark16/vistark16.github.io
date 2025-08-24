@@ -1,3 +1,12 @@
+# Profile
+Mathematics Bachelor Graduate at University of Indonesia. Passionate and high on curiosity and
+enthusiast about processing data, analyzing data, and get useful insights. Highly motivated for self-
+development and learning new experience. Self-motivated, responsible, easy to adapt, and caring for
+the surroundings. Eager to learn and grow in the dynamic data analytics industry.
+
+---
+
+# Previous Project
 ### 📑 Project Summary – Analysis of Performance Results of the Covolutional Neural Networ (CNN) Method in Pathological Myopia Classification  
 
 #### Overview  
